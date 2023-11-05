@@ -1,8 +1,4 @@
-"""
-Smokes - Contains all smoke tests.
 
-Most of these tests simply check if all the views do not return unexpected server errors.
-"""
 import datetime
 import sys
 
