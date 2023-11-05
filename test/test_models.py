@@ -1,8 +1,4 @@
-"""
-Unit tests (or an attempt to be) - All tests that verify specific functioning code of the model or managers.
 
-Utils is large enough to be in its own file.
-"""
 import datetime
 import sys
 
